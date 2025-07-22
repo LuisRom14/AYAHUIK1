@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1753205856.32745 "n:/AYAHUIK1/main.tex" "build/main.pdf" "main" 1753205856.75295 0
+["pdflatex"] 1753209593.62212 "n:/AYAHUIK1/main.tex" "build/main.pdf" "main" 1753209594.42411 0
   "C:/Users/LuisR/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1753195865 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/LuisR/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1753195910 13254313 748237688c40d82dc22076a83147d4a3 ""
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -23,9 +23,9 @@
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1749467999 5048 0270515b828149155424600fd2d58ac5 ""
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1749467999 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1751005717 30351 a2b09edc6c93a742566b222c33d0278e ""
-  "build/main.aux" 1753205856 233 26cc2b3db883214d1310fcedf076f6a0 "pdflatex"
-  "main.tex" 1753205853 428 dc3cc4ae900b3d248feaebe3517384eb ""
-  "n:/AYAHUIK1/main.tex" 1753205853 428 dc3cc4ae900b3d248feaebe3517384eb ""
+  "build/main.aux" 1753209594 233 26cc2b3db883214d1310fcedf076f6a0 "pdflatex"
+  "main.tex" 1753209592 511 1065c3b3d3c6120c9c92ad1f961a9304 ""
+  "n:/AYAHUIK1/main.tex" 1753209592 511 1065c3b3d3c6120c9c92ad1f961a9304 ""
   (generated)
   "build/main.aux"
   "build/main.log"
