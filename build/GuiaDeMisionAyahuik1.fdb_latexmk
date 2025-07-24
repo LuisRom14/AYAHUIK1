@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1753346646.00139 "n:/AYAHUIK1/GuiaDeMisionAyahuik1.tex" "build/GuiaDeMisionAyahuik1.pdf" "GuiaDeMisionAyahuik1" 1753346648.30905 0
+["pdflatex"] 1753348960.45084 "n:/AYAHUIK1/GuiaDeMisionAyahuik1.tex" "build/GuiaDeMisionAyahuik1.pdf" "GuiaDeMisionAyahuik1" 1753348962.87141 0
   "C:/Users/LuisR/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1753315777 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/LuisR/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1753195910 13254313 748237688c40d82dc22076a83147d4a3 ""
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -179,11 +179,11 @@
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "GuiaDeMisionAyahuik1.tex" 1753346645 3687 aa073cb9a7c662a6e806728f86083496 ""
-  "Imagenes/ORG-AYA1-GM.png" 1753346532 298204 cd0b6b31109ac7fa1fc13526f7f87fe5 ""
-  "build/GuiaDeMisionAyahuik1.aux" 1753346648 3388 ef7eff5708e9d09f30d4941e2b2eb4fc "pdflatex"
-  "build/GuiaDeMisionAyahuik1.out" 1753346648 3865 796881f0e06a3e2798ef84ad64466ea7 "pdflatex"
-  "n:/AYAHUIK1/GuiaDeMisionAyahuik1.tex" 1753346645 3687 aa073cb9a7c662a6e806728f86083496 ""
+  "GuiaDeMisionAyahuik1.tex" 1753348925 4901 da6b8adaa8ccbee4c5918d457dffad57 ""
+  "Imagenes/ORG-AYA1-GM-V3.png" 1753348108 297948 e626524d1307ddb83758c2821954ef0a ""
+  "build/GuiaDeMisionAyahuik1.aux" 1753348962 3128 2f0f7fd29792724c2bf2deddf3c69e7f "pdflatex"
+  "build/GuiaDeMisionAyahuik1.out" 1753348962 3509 0643085cda25dd6fcb1e4aab4c80261f "pdflatex"
+  "n:/AYAHUIK1/GuiaDeMisionAyahuik1.tex" 1753348925 4901 da6b8adaa8ccbee4c5918d457dffad57 ""
   (generated)
   "build/GuiaDeMisionAyahuik1.aux"
   "build/GuiaDeMisionAyahuik1.log"
