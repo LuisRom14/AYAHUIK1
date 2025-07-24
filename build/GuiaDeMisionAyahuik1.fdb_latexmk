@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1753354759.16534 "n:/AYAHUIK1/GuiaDeMisionAyahuik1.tex" "build/GuiaDeMisionAyahuik1.pdf" "GuiaDeMisionAyahuik1" 1753354762.06681 0
+["pdflatex"] 1753355364.31313 "n:/AYAHUIK1/GuiaDeMisionAyahuik1.tex" "build/GuiaDeMisionAyahuik1.pdf" "GuiaDeMisionAyahuik1" 1753355367.12973 0
   "C:/Users/LuisR/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1753315777 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/LuisR/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1753195910 13254313 748237688c40d82dc22076a83147d4a3 ""
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -201,7 +201,7 @@
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/LuisR/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "GuiaDeMisionAyahuik1.tex" 1753354758 8987 3e80e3e553c60f6fc6820861636caf07 ""
+  "GuiaDeMisionAyahuik1.tex" 1753355363 8998 9a9da2061df9d789c2f379241aa92644 ""
   "Imagenes/ALTAIR.png" 1753353022 10470 8f6717aed0cc680c7773e85df485acc6 ""
   "Imagenes/ALTIUM.png" 1753353085 31856 623780f31321e79fb8c3ea8fd036f156 ""
   "Imagenes/ANSYS.png" 1753353029 17253 5f796a201240b062ed70f2c6c6271d11 ""
@@ -212,10 +212,10 @@
   "Imagenes/ORG-AYA1-GM-V3.png" 1753348108 297948 e626524d1307ddb83758c2821954ef0a ""
   "Imagenes/PCBMEX.png" 1753353069 52938 aa2ebcff7f620bfe2eea3c5e3488e6a5 ""
   "Imagenes/SSC.png" 1753353045 96218 c2300020c52954974c47b6bea7447136 ""
-  "build/GuiaDeMisionAyahuik1.aux" 1753354761 4396 112b49c3c403976d3f0809f540ecdd18 "pdflatex"
-  "build/GuiaDeMisionAyahuik1.out" 1753354761 3623 1e436da775b679810c50fc179c892bee "pdflatex"
-  "build/GuiaDeMisionAyahuik1.toc" 1753354761 1782 e0fbebc598adb2265ddad8ece99a56a4 "pdflatex"
-  "n:/AYAHUIK1/GuiaDeMisionAyahuik1.tex" 1753354758 8987 3e80e3e553c60f6fc6820861636caf07 ""
+  "build/GuiaDeMisionAyahuik1.aux" 1753355366 4396 112b49c3c403976d3f0809f540ecdd18 "pdflatex"
+  "build/GuiaDeMisionAyahuik1.out" 1753355366 3623 1e436da775b679810c50fc179c892bee "pdflatex"
+  "build/GuiaDeMisionAyahuik1.toc" 1753355366 1782 e0fbebc598adb2265ddad8ece99a56a4 "pdflatex"
+  "n:/AYAHUIK1/GuiaDeMisionAyahuik1.tex" 1753355363 8998 9a9da2061df9d789c2f379241aa92644 ""
   (generated)
   "build/GuiaDeMisionAyahuik1.aux"
   "build/GuiaDeMisionAyahuik1.log"
