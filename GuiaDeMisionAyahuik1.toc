@@ -1,0 +1,20 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Antecedentes}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Antecedentes Históricos}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Antecedentes IPN}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Antecedentes Cuauhtémoc IPN}{1}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Descripción general de la misión}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Participantes de la misión}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}CONOPS}{1}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Descripción de la carga util}{1}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Descripción del proceso de diseño y construcción}{1}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Descripción del lanzamiento y recuperación}{1}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Objetivos y criterios de éxito}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Objetivos generales}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Objetivos específicos}{1}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Criterios de éxito}{1}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Resultados esperados}{1}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Resultados técnicos}{1}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Resultados de la carga útil}{1}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Resultados de la misión}{1}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Organización del equipo}{2}{section.5}%
