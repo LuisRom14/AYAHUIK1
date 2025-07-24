@@ -388,6 +388,8 @@ INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.
 INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\LuisR\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT .\Imagenes\ORG-AYA1-GM-V3.png
 INPUT .\Imagenes\ORG-AYA1-GM-V3.png
 INPUT .\Imagenes\ORG-AYA1-GM-V3.png
@@ -454,7 +456,11 @@ INPUT n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.out
 INPUT n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.out
 INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
+INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
 INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\LuisR\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb

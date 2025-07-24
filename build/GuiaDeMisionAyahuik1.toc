@@ -12,10 +12,10 @@
 \contentsline {section}{\numberline {3}Objetivos y criterios de éxito}{2}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Objetivos generales}{2}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Objetivos específicos}{2}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Criterios de éxito}{2}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Resultados esperados}{3}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Resultados técnicos}{3}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Resultados de la carga útil}{3}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Resultados de la misión}{3}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Organización del equipo}{4}{section.5}%
-\contentsline {section}{\numberline {6}Patrocinadores}{5}{section.6}%
+\contentsline {subsection}{\numberline {3.3}Criterios de éxito}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Resultados esperados}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Resultados técnicos}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Resultados de la carga útil}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Resultados de la misión}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Organización del equipo}{6}{section.5}%
+\contentsline {section}{\numberline {6}Patrocinadores}{7}{section.6}%

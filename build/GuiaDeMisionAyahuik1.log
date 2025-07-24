@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.22)  24 JUL 2025 05:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.22)  24 JUL 2025 06:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -828,7 +828,7 @@ File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 File: listings.cfg 2024/09/23 1.10c listings configuration
 ))
 Package: listings 2024/09/23 1.10c (Carsten Heinz)
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 55.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 57.
  (C:\Users\LuisR\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.aux
@@ -839,26 +839,26 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `GuiaDeMisionAyahuik1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -897,7 +897,7 @@ LaTeX Info: Redefining \% on input line 55.
 (C:\Users\LuisR\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 55.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 57.
  (C:\Users\LuisR\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count406
@@ -925,7 +925,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 55.
+Package hyperref Info: Link coloring OFF on input line 57.
  (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.out) (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.out)
 \@outlinefile=\write5
 \openout5 = `GuiaDeMisionAyahuik1.out'.
@@ -974,64 +974,96 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 
 [2]
+Underfull \hbox (badness 2608) in paragraph at lines 128--128
+[]|\T1/lmr/m/n/12 Medicion de $\OML/lmm/m/it/12 CO[]$ \T1/lmr/m/n/12 en
+ []
 
-[3]
-<Imagenes/ORG-AYA1-GM-V3.png, id=122, 2865.70625pt x 2464.20625pt>
+
+Underfull \hbox (badness 3260) in paragraph at lines 130--130
+[]|\T1/lmr/m/n/12 Medicion de $\OML/lmm/m/it/12 SO[]$ \T1/lmr/m/n/12 en
+ []
+
+
+Underfull \hbox (badness 5607) in paragraph at lines 148--148
+[]|\T1/lmr/m/n/12 Descenso con con-trol
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 150--150
+[]|\T1/lmr/m/n/12 Funcionamiento de la
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 152--152
+[]|\T1/lmr/m/n/12 Funcionamiento de la
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 154--154
+[]|\T1/lmr/m/n/12 Funcionamiento de la
+ []
+
+[3{C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
+
+[4]
+
+[5]
+<Imagenes/ORG-AYA1-GM-V3.png, id=134, 2865.70625pt x 2464.20625pt>
 File: Imagenes/ORG-AYA1-GM-V3.png Graphic file (type png)
 <use Imagenes/ORG-AYA1-GM-V3.png>
-Package pdftex.def Info: Imagenes/ORG-AYA1-GM-V3.png  used on input line 132.
+Package pdftex.def Info: Imagenes/ORG-AYA1-GM-V3.png  used on input line 213.
 (pdftex.def)             Requested size: 234.8775pt x 201.95341pt.
 
 
-[4 <./Imagenes/ORG-AYA1-GM-V3.png>]
-<Imagenes/IPN.png, id=130, 233.87375pt x 250.9375pt>
+[6 <./Imagenes/ORG-AYA1-GM-V3.png>]
+<Imagenes/IPN.png, id=142, 233.87375pt x 250.9375pt>
 File: Imagenes/IPN.png Graphic file (type png)
 <use Imagenes/IPN.png>
-Package pdftex.def Info: Imagenes/IPN.png  used on input line 176.
+Package pdftex.def Info: Imagenes/IPN.png  used on input line 257.
 (pdftex.def)             Requested size: 79.55527pt x 85.35826pt.
-<Imagenes/ESIME.png, id=131, 250.9375pt x 250.9375pt>
+<Imagenes/ESIME.png, id=143, 250.9375pt x 250.9375pt>
 File: Imagenes/ESIME.png Graphic file (type png)
 <use Imagenes/ESIME.png>
-Package pdftex.def Info: Imagenes/ESIME.png  used on input line 183.
+Package pdftex.def Info: Imagenes/ESIME.png  used on input line 264.
 (pdftex.def)             Requested size: 85.35973pt x 85.35826pt.
-<Imagenes/FUNDPOL.png, id=132, 576.1525pt x 250.9375pt>
+<Imagenes/FUNDPOL.png, id=144, 576.1525pt x 250.9375pt>
 File: Imagenes/FUNDPOL.png Graphic file (type png)
 <use Imagenes/FUNDPOL.png>
-Package pdftex.def Info: Imagenes/FUNDPOL.png  used on input line 190.
+Package pdftex.def Info: Imagenes/FUNDPOL.png  used on input line 271.
 (pdftex.def)             Requested size: 117.58453pt x 51.21504pt.
-<Imagenes/ALTIUM.png, id=133, 401.5pt x 199.74625pt>
+<Imagenes/ALTIUM.png, id=145, 401.5pt x 199.74625pt>
 File: Imagenes/ALTIUM.png Graphic file (type png)
 <use Imagenes/ALTIUM.png>
-Package pdftex.def Info: Imagenes/ALTIUM.png  used on input line 202.
+Package pdftex.def Info: Imagenes/ALTIUM.png  used on input line 283.
 (pdftex.def)             Requested size: 114.37967pt x 56.9055pt.
-<Imagenes/ALTAIR.png, id=134, 1069.9975pt x 219.82124pt>
+<Imagenes/ALTAIR.png, id=146, 1069.9975pt x 219.82124pt>
 File: Imagenes/ALTAIR.png Graphic file (type png)
 <use Imagenes/ALTAIR.png>
-Package pdftex.def Info: Imagenes/ALTAIR.png  used on input line 209.
+Package pdftex.def Info: Imagenes/ALTAIR.png  used on input line 290.
 (pdftex.def)             Requested size: 138.48413pt x 28.45274pt.
-<Imagenes/PCBMEX.png, id=135, 658.71094pt x 188.20313pt>
+<Imagenes/PCBMEX.png, id=147, 658.71094pt x 188.20313pt>
 File: Imagenes/PCBMEX.png Graphic file (type png)
 <use Imagenes/PCBMEX.png>
-Package pdftex.def Info: Imagenes/PCBMEX.png  used on input line 217.
+Package pdftex.def Info: Imagenes/PCBMEX.png  used on input line 298.
 (pdftex.def)             Requested size: 119.4976pt x 34.14322pt.
-<Imagenes/SSC.png, id=136, 1065.9825pt x 250.9375pt>
+<Imagenes/SSC.png, id=148, 1065.9825pt x 250.9375pt>
 File: Imagenes/SSC.png Graphic file (type png)
 <use Imagenes/SSC.png>
-Package pdftex.def Info: Imagenes/SSC.png  used on input line 229.
+Package pdftex.def Info: Imagenes/SSC.png  used on input line 310.
 (pdftex.def)             Requested size: 132.9547pt x 31.2982pt.
-<Imagenes/ANSYS.png, id=137, 775.89874pt x 250.9375pt>
+<Imagenes/ANSYS.png, id=149, 775.89874pt x 250.9375pt>
 File: Imagenes/ANSYS.png Graphic file (type png)
 <use Imagenes/ANSYS.png>
-Package pdftex.def Info: Imagenes/ANSYS.png  used on input line 237.
+Package pdftex.def Info: Imagenes/ANSYS.png  used on input line 318.
 (pdftex.def)             Requested size: 131.96024pt x 42.67912pt.
-<Imagenes/DASSAULT.png, id=138, 812.03375pt x 250.9375pt>
+<Imagenes/DASSAULT.png, id=150, 812.03375pt x 250.9375pt>
 File: Imagenes/DASSAULT.png Graphic file (type png)
 <use Imagenes/DASSAULT.png>
-Package pdftex.def Info: Imagenes/DASSAULT.png  used on input line 244.
+Package pdftex.def Info: Imagenes/DASSAULT.png  used on input line 325.
 (pdftex.def)             Requested size: 110.48717pt x 34.14322pt.
 
 
-[5 <./Imagenes/IPN.png> <./Imagenes/ESIME.png> <./Imagenes/FUNDPOL.png> <./Imagenes/ALTIUM.png> <./Imagenes/ALTAIR.png> <./Imagenes/PCBMEX.png> <./Imagenes/SSC.png> <./Imagenes/ANSYS.png> <./Imagenes/DASSAULT.png>] (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.aux
+[7 <./Imagenes/IPN.png> <./Imagenes/ESIME.png> <./Imagenes/FUNDPOL.png> <./Imagenes/ALTIUM.png> <./Imagenes/ALTAIR.png> <./Imagenes/PCBMEX.png> <./Imagenes/SSC.png> <./Imagenes/ANSYS.png> <./Imagenes/DASSAULT.png>] (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -1043,17 +1075,17 @@ Package rerunfilecheck Info: File `GuiaDeMisionAyahuik1.out' has not changed.
 (rerunfilecheck)             Checksum: 1E436DA775B679810C50FC179C892BEE;3623.
  ) 
 Here is how much of TeX's memory you used:
- 41001 strings out of 468149
- 910498 string characters out of 5431082
- 1302407 words of memory out of 5000000
- 69047 multiletter control sequences out of 15000+600000
+ 41009 strings out of 468149
+ 910605 string characters out of 5431082
+ 1308476 words of memory out of 5000000
+ 69050 multiletter control sequences out of 15000+600000
  661144 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,87p,1608b,1056s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-Output written on n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.pdf (5 pages, 538136 bytes).
+ 84i,11n,87p,1608b,1209s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb>
+Output written on n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.pdf (7 pages, 573596 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
  223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
