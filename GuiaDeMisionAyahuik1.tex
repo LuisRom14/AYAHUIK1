@@ -1,5 +1,5 @@
 %Generales 
-\documentclass[letterpaper]{article} % Documento en dos columnas, tamaño carta
+\documentclass[letterpaper,12pt]{article} % Documento en dos columnas, tamaño carta
 \usepackage[spanish]{babel}       % Traduce capítulos, fechas, etc. al español
 \usepackage[utf8]{inputenc}       % Permite usar acentos directamente
 \usepackage[T1]{fontenc}          % Codificación para que se vean bien los caracteres en PDF
@@ -44,11 +44,14 @@
 
 
 \pagestyle{fancy} 
+\setlength{\headheight}{14.5pt}
 \fancyhf{}
 \fancyhead[C]{Cuauhtemoc IPN}
 \fancyhead[R]{AYAHUIK 1}
 \fancyhead[L]{Guia de Misión}
 \fancyfoot[R]{\thepage}
+
+\graphicspath{{Imagenes/}}
 
 \begin{document}
 
@@ -87,10 +90,20 @@
     \subsection{Resultados de la misión}
 
     \subsection{Resultados de la carga útil}
-
+\newpage
 \section{organización y roles}
 
     \subsection{Organización del equipo}
+
+    El equipo Cuauhtémoc IPN está organizado en diferentes subsecciones para asegurar una gestión 
+    eficiente de la misión. Cada subsección tiene roles y responsabilidades específicas que 
+    contribuyen al éxito del proyecto, las cuales son descritas a continuación en un organigrama general:
+
+    \begin{figure}[!h]
+      \centerline{\includegraphics[width=.5\textwidth]{ORG-AYA1-GM.png}}
+      \caption{ORGANIGRAMA AYAHUIK 1}
+      \label{1}
+    \end{figure}
 
     \subsection{Roles y responsabilidades}
 

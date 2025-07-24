@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.22)  24 JUL 2025 01:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.22)  24 JUL 2025 02:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
 (C:\Users\LuisR\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\LuisR\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+(C:\Users\LuisR\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
 \c@section=\count276
@@ -828,7 +828,7 @@ File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 File: listings.cfg 2024/09/23 1.10c listings configuration
 ))
 Package: listings 2024/09/23 1.10c (Carsten Heinz)
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 53.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 56.
  (C:\Users\LuisR\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.aux
@@ -839,26 +839,26 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `GuiaDeMisionAyahuik1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -877,14 +877,14 @@ LaTeX Info: Redefining \% on input line 53.
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=-37.0pt
-* \headheight=12.0pt
+* \headheight=14.5pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -897,7 +897,7 @@ LaTeX Info: Redefining \% on input line 53.
 (C:\Users\LuisR\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 53.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 56.
  (C:\Users\LuisR\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count406
@@ -925,7 +925,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 56.
  (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.out) (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.out)
 \@outlinefile=\write5
 \openout5 = `GuiaDeMisionAyahuik1.out'.
@@ -935,7 +935,15 @@ Package hyperref Info: Link coloring OFF on input line 53.
 
 [1{C:/Users/LuisR/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
-] (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.aux
+]
+<Imagenes/ORG-AYA1-GM.png, id=97, 2865.70625pt x 2464.20625pt>
+File: Imagenes/ORG-AYA1-GM.png Graphic file (type png)
+<use Imagenes/ORG-AYA1-GM.png>
+Package pdftex.def Info: Imagenes/ORG-AYA1-GM.png  used on input line 103.
+(pdftex.def)             Requested size: 234.8775pt x 201.95341pt.
+
+
+[2 <./Imagenes/ORG-AYA1-GM.png>] (n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -947,17 +955,17 @@ Package rerunfilecheck Info: File `GuiaDeMisionAyahuik1.out' has not changed.
 (rerunfilecheck)             Checksum: 796881F0E06A3E2798EF84AD64466EA7;3865.
  ) 
 Here is how much of TeX's memory you used:
- 40742 strings out of 468149
- 904763 string characters out of 5431082
- 1295540 words of memory out of 5000000
- 68833 multiletter control sequences out of 15000+600000
- 642572 words of font info for 46 fonts, out of 8000000 for 9000
+ 40765 strings out of 468149
+ 905260 string characters out of 5431082
+ 1294649 words of memory out of 5000000
+ 68853 multiletter control sequences out of 15000+600000
+ 642896 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,87p,1608b,1055s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
-Output written on n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.pdf (1 page, 70975 bytes).
+ 84i,11n,87p,1608b,1056s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+Output written on n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.pdf (2 pages, 192360 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 123 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
