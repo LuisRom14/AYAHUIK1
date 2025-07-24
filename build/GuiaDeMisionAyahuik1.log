@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.22)  24 JUL 2025 00:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.22)  24 JUL 2025 01:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -944,7 +944,7 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `GuiaDeMisionAyahuik1.out' has not changed.
-(rerunfilecheck)             Checksum: 17287B0F843E546738F90BF6D68AD619;3862.
+(rerunfilecheck)             Checksum: 796881F0E06A3E2798EF84AD64466EA7;3865.
  ) 
 Here is how much of TeX's memory you used:
  40742 strings out of 468149
@@ -955,7 +955,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,11n,87p,1608b,1055s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/LuisR/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
-Output written on n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.pdf (1 page, 70972 bytes).
+Output written on n:\AYAHUIK1\build\GuiaDeMisionAyahuik1.pdf (1 page, 70975 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
