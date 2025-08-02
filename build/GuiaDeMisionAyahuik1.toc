@@ -19,4 +19,5 @@
 \contentsline {subsection}{\numberline {4.2}Resultados de la carga útil}{10}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Resultados de la misión}{10}{subsection.4.3}%
 \contentsline {section}{\numberline {5}Organización del equipo}{11}{section.5}%
-\contentsline {section}{\numberline {6}Patrocinadores}{13}{section.6}%
+\contentsline {section}{\numberline {6}Bibliografía}{13}{section.6}%
+\contentsline {section}{\numberline {7}Patrocinadores}{13}{section.7}%
